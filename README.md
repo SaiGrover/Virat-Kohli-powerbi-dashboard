@@ -106,7 +106,7 @@ The analysis focuses on identifying performance patterns across different oppone
 
 ## 🖼️ Dashboard Preview
 
-![Virat Kohli Power BI Dashboard](Screenshots/dashboard.png)
+![Virat Kohli Power BI Dashboard](screenshots/dashboard.png)
 
 ## 📁 Repository Structure
 
